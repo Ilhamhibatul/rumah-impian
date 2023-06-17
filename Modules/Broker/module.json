@@ -1,0 +1,11 @@
+{
+    "name": "Broker",
+    "alias": "broker",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Broker\\Providers\\BrokerServiceProvider"
+    ],
+    "files": []
+}
